@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823118169882",
+    "project_id": "fh-studi-app",
+    "storage_bucket": "fh-studi-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823118169882:android:09472d8f2c410bbe998ea3",
+        "android_client_info": {
+          "package_name": "com.example.neu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823118169882-s3adb1ko2tf76qkig88jq2on8qkat25k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP4ImMOQI_PQ2h9hjXm9_YoRYgoSx5vGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823118169882-s3adb1ko2tf76qkig88jq2on8qkat25k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
